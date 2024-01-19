@@ -20,6 +20,8 @@ In the Credit Card Churn Prediction Project, we focus on the vital task of predi
 * **Results and Evaluation**
 
   Compare the performance of optimized models with benchmarks, focusing on metrics like validation accuracy, F1 score, and confusion matrix analysis.
+# Data Science Techniques Used
+Pandas, Numpy, PyTorch, Sklearn, Logestic Regression, MLP, SMOTE, Seaborn, Matplotlib, Hyperparameter Optimization(grid search), Confusion matrixetc.
 # Tools Used
 Python, Jupyter Notebook
 # Usage
